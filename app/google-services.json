@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973125424205",
+    "project_id": "aics-c9346",
+    "storage_bucket": "aics-c9346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973125424205:android:a259bc1a8a9e30e0063804",
+        "android_client_info": {
+          "package_name": "com.example.foodadvices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANGVwisODeSTtFOjY9bdEsRQ2YUh7mTaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
